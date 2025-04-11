@@ -347,11 +347,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 地方,#genre#
 
-泰州三套影视娱乐,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
-泰州一套新闻综合,http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=2f3c2e461725409415
-泰州影视高清,http://121.237.246.194:8888/rtp/239.49.1.101:6000
-泰州经济高清,http://121.237.246.194:8888/rtp/239.49.1.100:6000
-泰州新闻,http://121.237.246.194:8888/rtp/239.49.9.20:6000
 无锡综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=df50c8ad1706195780
 无锡都市,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=95a5f0d51706199864
