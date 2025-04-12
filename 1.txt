@@ -298,7 +298,6 @@ Channel U ED,http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
-中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 寰宇新聞台,https://stream1.freetv.fun/f1aee25c74ec1e559ed86c00feb6074cef35d76d15a0d3f7019530b7ac094bcc.ctv
@@ -362,14 +361,3 @@ Astro 欢喜台,http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 纬来综合,http://122.117.71.103:8517/http/220.130.87.218:8081/hls/68/810/ch032.m3u8
 纬来综合,http://108.181.20.197/livehttpplay?channel_id=20201
 纬来综合,https://stream1.freetv.fun/wei-lai-zong-he-4.ctv
-BBC Earth,https://stream1.freetv.fun/bbc-earth-12.ctv
-BBC Earth,https://stream1.freetv.fun/bbc-earth-13.m3u8
-BBC Earth,https://stream1.freetv.fun/ying-guo-bbcearth-1.m3u8
-discovery channel cee hd,https://stream1.freetv.fun/discovery-channel-cee-1.m3u8
-love nature,https://stream1.freetv.fun/love-nature-4.m3u8
-love nature,https://stream1.freetv.fun/love-nature-7.m3u8
-love nature,https://stream1.freetv.fun/love-nature-12.m3u8
-love nature,https://stream1.freetv.fun/love-nature-15.m3u8
-love nature,https://stream1.freetv.fun/love-nature-18.m3u8
-love nature,https://stream1.freetv.fun/love-nature-24.m3u8
-NatGeo HD,https://stream1.freetv.fun/natgeo-3.ctv
